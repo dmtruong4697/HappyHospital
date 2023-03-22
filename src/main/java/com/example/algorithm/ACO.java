@@ -120,6 +120,7 @@ public class ACO {
                 per1[x+j] = i;
                 j++;
             }
+            x += j;
         }
 
         Random rand = new Random();
